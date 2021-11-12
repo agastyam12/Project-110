@@ -1,0 +1,1 @@
+// Link for Teachable Machine: https://teachablemachine.withgoogle.com/models/KsS2J_GVT/ 
